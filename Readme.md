@@ -53,7 +53,7 @@ Encapsulation is used to:
 ## 🛠️ Setup Instructions
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/ATM-Management.git
+git clone https://github.com/theankitmaurya/ATM-System.git
 ```
 ### 2. Set Up MySQL
 Run this SQL:
